@@ -1,0 +1,5 @@
+*.ipynb_checkpoints
+runs/
+output.mp4
+result_out.mp4
+yolov8n.pt
